@@ -1,6 +1,7 @@
 main {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
   gap: 24px;
   padding-block: 24px;
 }
